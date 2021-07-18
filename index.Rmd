@@ -1,0 +1,20 @@
+---
+title: "Design and Analysis of Experiments in Agriculture"
+author: "Dr. Pratheesh P. Gopinath, PhD"
+date: "2021-07-18"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: pratheesh3780/Design-and-Analysis-of-Experiments-in-Agriculture
+description: "A book for Agricultural research"
+cover-image: images/testcover.png
+---
+# Preface {-}
+
+<p style="text-align: justify;"> **Note**: This book is published by XXXXXXXX. The online version of this book is free to read here, and licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). If you have any feedback, please feel free to [file an issue on GitHub](https://github.com/pratheesh3780/Design-and-Analysis-of-Experiments-in-Agriculture). Thank you!</p>
+
+<p style="text-align: center;"><a href="https://www.kaugrapes.com"><img src="images/testcover.png" alt="DAEA cover" /></a></p>
+
+<p style="text-align: center;">This book is for all the researchers in Agriculture for improving quality of research </p>
